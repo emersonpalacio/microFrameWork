@@ -1,0 +1,66 @@
+﻿.container, .containerFluid {
+    display: block;
+    width: 100%;
+    margin: 1rem auto; /*16px, auto: automático a los lados*/
+    text-align: left;
+    background-color: #CCC;
+}
+
+.container {
+    max-width: 1200px;
+}
+
+.item {
+    display: block;
+    text-align: center;
+    background-color: #222222;
+}
+
+/*maquetacion en porcentaje */
+.c12 {
+    width: 100%;
+}
+
+.c11 {
+    width: 91.66666666666667%;
+}
+
+.c10 {
+    width: 83.33333333333333%;
+}
+
+.c9 {
+    width: 75%;
+}
+
+.c8 {
+    width: 66.66666666666667%;
+}
+
+.c7 {
+    width: 58.33333333333333%;
+}
+
+.c6 {
+    width: 50%;
+}
+
+.c5 {
+    width: 41.66666666666667%;
+}
+
+.c4 {
+    width: 33.33333333333333%;
+}
+
+.c3 {
+    width: 25%;
+}
+
+.c2 {
+    width: 16.66666666666667%;
+}
+
+.c1 {
+    width: 8.333333333333333%;
+}
